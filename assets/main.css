@@ -559,7 +559,7 @@ i.fas.fa-star {
 /* platforms */
 
 .platforms {
-    background-image: url("/assets/img/platform-bg.png");
+    background-image: url("img/platform-bg.png");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
