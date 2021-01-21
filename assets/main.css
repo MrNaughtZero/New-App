@@ -140,6 +140,7 @@ nav {
     top: -400px;
     background: white;
     z-index: 99;
+    padding-bottom: 4px;
 }
 
 .mobile-links ul {
@@ -911,7 +912,8 @@ button.form-submit {
         flex-direction: column;
     }
     img.test-pic {
-        width: 120px;
+        width: 80px;
+        height: 80px;
         margin: 0 auto;
     }
     .testimonial-content {
@@ -926,6 +928,9 @@ button.form-submit {
     .testimonial-icons {
         margin-bottom: -60px;
         padding-top:30px
+    }
+    .platform-grid {
+        padding-top: 60px;
     }
 }
 
